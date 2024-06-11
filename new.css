@@ -61,7 +61,7 @@ canvas {
   width: 60%;
   height: 60%;
   justify-content: center;
-  color: white;
+  color: rgb(0, 0, 0);
   margin-left: 20%;
   font-family: cursive;
   font-weight: 900;
